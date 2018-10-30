@@ -5,8 +5,12 @@ Stone-Paper-Scissors Game using Computer's AI
 
 "Library" To be included in this project:
  *Random*
+
 How to import?
  Just type - import Random
  OR you can give it an Alias as : "import Random as rd" (It will reduce the time to type RANDOM every time, instead of typing 'Random' just type 'rd')
+ 
 To learn more about Random, visit : https://docs.python.org/3/library/random.html 
+
+
 
