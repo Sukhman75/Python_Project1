@@ -1,8 +1,9 @@
-import random as rd
+from random import randint as ri
 print("Lets Play Stone-Paper-Scissors....")
 print("***")
 print("***")
 print("***")
 print("***")
 print("***")
-print("Hey 'Player' I am Mr. Computer!! \n ...Make your Move...")
+#input(), method allows you to take input from the user.
+Player= input("Hey 'Player' I am Mr. Computer!! \n ...Make your Move...")

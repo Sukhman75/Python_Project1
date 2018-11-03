@@ -1,4 +1,4 @@
-import random as rd
+from random import randint as ri
 print("Lets Play Stone-Paper-Scissors....")
 print("***")
 print("***")
@@ -7,7 +7,7 @@ print("***")
 print("***")
 Player= input("Hey 'Player' I am Mr. Computer!! \n ...Make your Move...")
 
-rand_num = rd.randint(0,2)
+rand_num = ri(0,2)
 
 if rand_num==0:
 	computer = "Stone"
@@ -38,5 +38,6 @@ elif Player == "Paper":
      else:
       print("You won!!!")    
 
-
+else: 
+	print("Invalid Entry..!! Put some thing from... Stone-Paper-Scissors ")
 
