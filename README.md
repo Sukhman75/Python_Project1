@@ -1,6 +1,6 @@
 # Python_Project1
 #A simple game made for fun and learning purpose only.  
-Stone-Paper-Scissors Game using Computer's AI
+"""Stone-Paper-Scissors Game using Computer's AI"""
 
 ##Important##
 
