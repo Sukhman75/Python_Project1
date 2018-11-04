@@ -15,5 +15,14 @@ From random library we need to import randint method.
 So we can write: "from random inport randint as ri".
 To learn more about Random, visit : https://docs.python.org/3/library/random.html 
 
+To run this game simply download and install latest Python from : https://www.python.org/downloads/
+
+Set PATH for python.
+
+Open Command Line and navigate to the directory project(GAME_Code.py) file is saved.
+To run the file write: python ("filename".py)
+!!! HAVE FUN !!!
+
+
 
 
